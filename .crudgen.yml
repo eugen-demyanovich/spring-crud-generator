@@ -1,0 +1,4 @@
+basePackage: org.example.demo
+dbProvider: spring-data
+withFacade: true
+withConverter: true
